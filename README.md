@@ -1,6 +1,8 @@
 # ppldump-release
 PPLDump Release
 
+Disclaimer: This releases have been created using the [Inceptor](https://github.com/klezVirus/inceptor) framework.
+
 ### Lsass Dump (Process image name)
 ```
 PPLdump.exe lsass.exe lsass.dmp
